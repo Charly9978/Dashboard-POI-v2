@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "frontend"
+		},
+		{
+			"path": "database"
+		},
+		{
+			"path": "backend"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "node_modules/typescript/lib",
+		"vue.codeActions.enabled": false
+	}
+}
